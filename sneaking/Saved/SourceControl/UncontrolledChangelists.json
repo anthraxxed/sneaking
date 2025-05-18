@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Projects/sneaking/Content/Interactables/BP_CollectablePickup.uasset",
+				"D:/Unreal Projects/sneaking/Content/Interactables/Interact.uasset",
+				"D:/Unreal Projects/sneaking/Content/Interfaces/Interface_Interact.uasset",
+				"D:/Unreal Projects/sneaking/Content/Maps/TestEvnironment.umap",
+				"D:/Unreal Projects/sneaking/Content/Player/BP_PlayerChar.uasset",
+				"D:/Unreal Projects/sneaking/Content/Interactables/BP_PhysicsPickup.uasset",
+				"D:/Unreal Projects/sneaking/Content/Maps/_GENERATED/Joebe/Rectangle_1D53DAFE.uasset",
+				"D:/Unreal Projects/sneaking/Content/Maps/_GENERATED/Joebe/Box_C2DC16F6.uasset",
 				"C:/Users/Joebe/OneDrive/Documents/Unreal Projects/sneaking/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
