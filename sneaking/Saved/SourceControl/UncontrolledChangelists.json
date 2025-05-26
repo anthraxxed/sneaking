@@ -13,6 +13,8 @@
 				"D:/Unreal Projects/sneaking/Content/Interactables/BP_PhysicsPickup.uasset",
 				"D:/Unreal Projects/sneaking/Content/Maps/_GENERATED/Joebe/Rectangle_1D53DAFE.uasset",
 				"D:/Unreal Projects/sneaking/Content/Maps/_GENERATED/Joebe/Box_C2DC16F6.uasset",
+				"D:/Unreal Projects/sneaking/Content/Enemy/Turret/BP_TurretProjectile.uasset",
+				"D:/Unreal Projects/sneaking/Content/Enemy/Turret/BP_Turretshortrange.uasset",
 				"C:/Users/Joebe/OneDrive/Documents/Unreal Projects/sneaking/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
