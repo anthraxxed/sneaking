@@ -81,3 +81,5 @@ Thumbs.db
 # Ignore README.md in subdirectories, but not root
 **/README.md
 !README.md
+
+Add .gitignore for C++ and C# projects
