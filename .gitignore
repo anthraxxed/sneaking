@@ -1,2 +1,6 @@
 # Ignore only README.md files anywhere in the repo
 README.md
+
+**/README.md
+!README.md
+
