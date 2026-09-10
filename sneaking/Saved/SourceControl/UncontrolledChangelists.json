@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Joebe/OneDrive/Desktop/httpsgithub.comKalium-99Horror_Game-UnrealEngine5.git/sneaking/sneaking/Content/Maps/TestEvnironment.umap",
+				"C:/Users/Joebe/OneDrive/Desktop/httpsgithub.comKalium-99Horror_Game-UnrealEngine5.git/sneaking/sneaking/Content/Maps/_GENERATED/Joebe/M_Box_657A8BE9_M_CobbleStone_Smooth_41B7A3EE41FA1F2CF057E599B4461C8C.uasset",
+				"C:/Users/Joebe/OneDrive/Desktop/httpsgithub.comKalium-99Horror_Game-UnrealEngine5.git/sneaking/sneaking/Content/Maps/_GENERATED/Joebe/M_Box_76DB4058_M_Basic_Wall_2DE7BB2649DD74F38E95F790805792A0.uasset",
+				"C:/Users/Joebe/OneDrive/Desktop/httpsgithub.comKalium-99Horror_Game-UnrealEngine5.git/sneaking/sneaking/Content/Maps/_GENERATED/Joebe/M_Box_76DB4058_M_Basic_Floor_0528ED62433C636AC5CD5FAD6B67A55E.uasset",
+				"C:/Users/Joebe/OneDrive/Desktop/httpsgithub.comKalium-99Horror_Game-UnrealEngine5.git/sneaking/sneaking/Content/SystemFonts/Fonts/ArialRoundedMT.uasset",
+				"C:/Users/Joebe/OneDrive/Desktop/httpsgithub.comKalium-99Horror_Game-UnrealEngine5.git/sneaking/sneaking/Content/SystemFonts/FontFaces/ArialRoundedMT_Bold.uasset",
 				"D:/Unreal Projects/sneaking/Content/Interactables/BP_CollectablePickup.uasset",
 				"D:/Unreal Projects/sneaking/Content/Interactables/Interact.uasset",
 				"D:/Unreal Projects/sneaking/Content/Interfaces/Interface_Interact.uasset",
