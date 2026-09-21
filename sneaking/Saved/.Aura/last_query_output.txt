@@ -1,0 +1,116 @@
+Top file paths:
+C:/Users/Joebe/OneDrive/Desktop/httpsgithub.comKalium-99Horror_Game-UnrealEngine5.git/sneaking/sneaking/Content/SystemFonts/FontFaces/ArialRoundedMT_Bold.uasset
+C:/Users/Joebe/OneDrive/Desktop/httpsgithub.comKalium-99Horror_Game-UnrealEngine5.git/sneaking/sneaking/Content/Maps/_GENERATED/Joebe/M_Box_657A8BE9_M_CobbleStone_Smooth_41B7A3EE41FA1F2CF057E599B4461C8C.uasset
+C:/Users/Joebe/OneDrive/Desktop/httpsgithub.comKalium-99Horror_Game-UnrealEngine5.git/sneaking/sneaking/Content/Interactables/BP_PhysicsPickup.uasset
+
+
+
+File: Content_SystemFonts_FontFaces_ArialRoundedMT_Bold_uasset
+Relevance Score: 1.2770
+
+
+
+asset_path: /Game/SystemFonts/FontFaces/ArialRoundedMT_Bold.ArialRoundedMT_Bold
+
+referencers:
+  [
+  "/Game/SystemFonts/Fonts/ArialRoundedMT"
+]
+
+dependencies:
+  []
+
+content: asset path:
+/Game/SystemFonts/FontFaces/ArialRoundedMT_Bold.ArialRoundedMT_Bold
+
+
+
+
+
+
+
+
+File: Content_Maps__GENERATED_Joebe_M_Box_657A8BE9_M_CobbleStone_Smooth_41B7A3EE41FA1F2CF057E599B4461C8C_uasset
+Relevance Score: 1.2675
+
+
+
+asset_path: /Game/Maps/_GENERATED/Joebe/M_Box_657A8BE9_M_CobbleStone_Smooth_41B7A3EE41FA1F2CF057E599B4461C8C.M_Box_657A8BE9_M_CobbleStone_Smooth_41B7A3EE41FA1F2CF057E599B4461C8C
+
+referencers:
+  [
+  "/Game/Maps/TestEvnironment"
+]
+
+dependencies:
+  [
+  "/Engine/EngineMaterials/FlattenMaterial"
+]
+
+content: asset path:
+/Game/Maps/_GENERATED/Joebe/M_Box_657A8BE9_M_CobbleStone_Smooth_41B7A3EE41FA1F2CF057E599B4461C8C.M_Box_657A8BE9_M_CobbleStone_Smooth_41B7A3EE41FA1F2CF057E599B4461C8C
+
+
+
+
+
+
+
+
+File: Content_Interactables_BP_PhysicsPickup_uasset
+Relevance Score: 1.2601
+
+
+
+asset_path: /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup
+
+referencers:
+  [
+  "/Game/Maps/TestEvnironment",
+  "/Game/Player/BP_PlayerChar",
+  "/Game/Interactables/AnimatedInteractables/BP_Button"
+]
+
+dependencies:
+  [
+  "/Game/StarterContent/Props/Materials/M_Rock",
+  "/Game/Interfaces/Interface_Interact",
+  "/Engine/BasicShapes/Cube",
+  "/Game/Player/BP_PlayerChar",
+  "/Game/Interactables/AnimatedInteractables/MAT_Color"
+]
+
+content: asset path:
+/Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup
+blueprint info:
+BP_PhysicsPickup
+/Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup
+BP_PhysicsPickup_C
+/Game/Interactables/BP_PhysicsPickup
+Actor
+Interface_Interact_C, 
+
+variable info:
+
+Variables:
+- ColorDMI (object) = No default value
+- PickupColor (struct) = No default value
+
+function info:
+
+Functions:
+UserConstructionScript
+
+component info:
+
+Components:
+- Cube (StaticMeshComponent)
+    StaticMesh = /Engine/BasicShapes/Cube.Cube
+    OverrideMaterials = [1 items] {/Game/StarterContent/Props/Materials/M_Rock.M_Rock}
+    RelativeScale3D = X=0.200000 Y=0.200000 Z=0.200000
+
+
+
+
+
+
